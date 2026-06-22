@@ -36,7 +36,7 @@ I hold an **Associate Degree in Web Application Development (DAW)**. Currently, 
 
 ## 🛠️ Mi Tech Stack
 
-Tecnologías y herramientas con las que estoy aprendiendo y trabajando <br> Technologies and tools I am currently learning and working with:
+🛠️ Tecnologías y herramientas con las que estoy aprendiendo y trabajando: <br> 🛠️ Technologies and tools I am currently learning and working with:
 
 ### 🎨 Frontend
 <table>
