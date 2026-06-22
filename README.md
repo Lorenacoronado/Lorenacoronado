@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hello! 👋 Welcome to my GitHub profile - Lorena Coronado
+# ¡Hello! 👋 Welcome to my GitHub profile 
 
 ### 💻 Junior Web Developer | Photographer & Graphic Designer 📸🎨
 
