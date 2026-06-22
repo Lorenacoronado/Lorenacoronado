@@ -36,7 +36,7 @@ I hold an **Associate Degree in Web Application Development (DAW)**. Currently, 
 
 ## 🛠️ Mi Tech Stack
 
-Tecnologías y herramientas con las que estoy aprendiendo y trabajando / Technologies and tools I am currently learning and working with:
+Tecnologías y herramientas con las que estoy aprendiendo y trabajando <br> Technologies and tools I am currently learning and working with:
 
 ### 🎨 Frontend
 <table>
@@ -82,5 +82,4 @@ Tecnologías y herramientas con las que estoy aprendiendo y trabajando / Technol
 </table>
 
 ---
-⚡ **El objetivo: Escribir código limpio y aprender algo nuevo cada día.**
-⚡ **The Goal: Writing clean code and learning something new every single day.**
+⚡ **El objetivo: Escribir código limpio y aprender algo nuevo cada día.** <br>⚡ **The Goal: Writing clean code and learning something new every single day.**
