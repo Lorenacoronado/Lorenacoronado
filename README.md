@@ -1,8 +1,8 @@
 <div align="center">
 
-# ¡Hola! 👋 Soy Lorena Coronado
+# ¡Hello! 👋 Welcome to my GitHub profile - Lorena Coronado
 
-### 💻 Desarrolladora Web (en formación) | Fotografía & Diseño Gráfico 📸🎨
+### 💻 Junior Web Developer | Photographer & Graphic Designer 📸🎨
 
 <a href="https://www.linkedin.com/in/lorena-coronado" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" width="35"/>
@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mí
 
-¡Bienvenida/o a mi perfil de GitHub! Soy estudiante de 2º del ciclo de **Desarrollo de Aplicaciones Web (DAW)**. Actualmente estoy construyendo mi base técnica paso a paso, combinando la programación con mi lado más creativo:
+Soy Técnica Superior en **Desarrollo de Aplicaciones Web (DAW)**. Actualmente estoy construyendo mi base técnica paso a paso, combinando la programación con mi lado más creativo:
 
 * <img src="https://flagcdn.com/24x18/gb.png" alt="UK" width="20"/> He vivido y trabajado **3 años en Londres**, lo que me ha dado destreza comunicativa en inglés y mucha facilidad para adaptarme a equipos diversos.
 * 📸 Vengo del mundo de la **Fotografía y el Diseño Gráfico**. Esta base me da un ojo especial para la usabilidad (UI/UX) y para el detalle y cuidar la estética visual de las aplicaciones.
@@ -23,9 +23,20 @@
 
 ---
 
+## 🚀 About me
+
+I hold an **Associate Degree in Web Application Development (DAW)**. Currently, I am building my technical foundation step by step, combining programming with my most creative side:
+
+* <img src="https://flagcdn.com/24x18/gb.png" alt="UK" width="20"/> I lived and worked in **London for 3 years**, which has given me strong communication skills in English and a great ability to adapt to diverse teams.
+* 📸 I come from the world of **Photography and Graphic Design**. This background gives me a special eye for usability (UI/UX), attention to detail, and maintaining the visual aesthetics of applications.
+* 🎯 As a junior developer, I am open to everything. I enjoy bringing interfaces to life in the **Frontend** as well as understanding the logic and structuring data in the **Backend**.
+* 🌱 My current goal is to keep learning, strengthen my foundations, and find an opportunity in a company where I can absorb knowledge from an experienced team.
+
+---
+
 ## 🛠️ Mi Tech Stack
 
-Tecnologías y herramientas con las que estoy aprendiendo y trabajando:
+Tecnologías y herramientas con las que estoy aprendiendo y trabajando / Technologies and tools I am currently learning and working with:
 
 ### 🎨 Frontend
 <table>
@@ -37,7 +48,7 @@ Tecnologías y herramientas con las que estoy aprendiendo y trabajando:
   </tr>
 </table>
 
-### ⚙️ Backend & Bases de Datos
+### ⚙️ Backend & DataBases
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/><br>Node.js</td>
@@ -47,7 +58,7 @@ Tecnologías y herramientas con las que estoy aprendiendo y trabajando:
   </tr>
 </table>
 
-### 🖌️ Diseño y Herramientas
+### 🖌️ Design & Tools
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/><br>VS Code</td>
@@ -62,7 +73,7 @@ Tecnologías y herramientas con las que estoy aprendiendo y trabajando:
   </tr>
 </table>
 
-### 🌱 Actualmente explorando
+### 🌱 Currently exploring
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/><br>Figma</td>
@@ -71,4 +82,5 @@ Tecnologías y herramientas con las que estoy aprendiendo y trabajando:
 </table>
 
 ---
-⚡ **El objetivo:** Escribir código limpio y aprender algo nuevo cada día.
+⚡ **El objetivo: Escribir código limpio y aprender algo nuevo cada día.**
+⚡ **The Goal: Writing clean code and learning something new every single day.**
